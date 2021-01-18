@@ -1,3 +1,9 @@
+/**
+ * File: BreakoutConstants.java
+ * -------------------
+ * This file declares all the constants used in Breakout.java
+ */
+
 import java.awt.Color;
 
 public interface BreakoutConstants {

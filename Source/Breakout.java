@@ -2,10 +2,7 @@
 /*
  * File: Breakout.java
  * -------------------
- * Name: Zuka Mujirishvili
- * Section Leader: 
- * 
- * This file will eventually implement the game of Breakout.
+ * This file implements the game of Breakout.
  * 
  * None of the art (background, font) belongs to me. 
  * 
